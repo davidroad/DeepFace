@@ -1,5 +1,7 @@
 #Install https://github.com/calico/basenji in virtual environment basenji
+
 source activate basenji
+
 ##preprocess the bigWig file following this steps https://github.com/calico/basenji/blob/master/tutorials/preprocess.ipynb
 
 ##train model
