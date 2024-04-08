@@ -1,4 +1,5 @@
-#Install https://github.com/calico/basenji in virtual environment basenji
+##DeepFace use basenji as the backbone model
+##Install https://github.com/calico/basenji in virtual environment basenji
 
 source activate basenji
 
